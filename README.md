@@ -1,6 +1,7 @@
 # BA本子收录1.0.0
 1.无ntr等内容\
 2.画风不是是否收入本列表的判断依据\
+3.下载页:https://github.com/liubang114/BAcomic/releases
 
 
 ## 一、主要部分
